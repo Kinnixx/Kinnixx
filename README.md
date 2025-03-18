@@ -3,6 +3,7 @@
 Passionnée par le **développement web**, la **guitare** et les **jeux vidéo**, j'aime créer, apprendre et relever de nouveaux défis tech. 
 
 📖 **Porfolio** : *Coming soon 😏*
+
 ---
 
 ### 💻 Technologies & Compétences
