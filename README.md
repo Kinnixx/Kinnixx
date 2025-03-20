@@ -8,7 +8,7 @@ Passionnée par le **développement web**, la **guitare** et les **jeux vidéo**
 
 ### 💻 Technologies & Compétences
 
-- 🔹 **Backend** : PHP (Symfony), Node.js
+- 🔹 **Backend** : PHP (Symfony ; CodeIgniter ; Laravel), Node.js
 - 🔹 **Frontend** : Next.js, React, Tailwind CSS
 - 🔹 **Base de données** : MySQL, PostgreSQL
 
@@ -20,11 +20,11 @@ Passionnée par le **développement web**, la **guitare** et les **jeux vidéo**
 
 ---
 
-### 🎸 Fun Facts
+### 🎸 A propos
 
+- 💡 Toujours en quête de nouveaux challenges tech
 - 🎮 Fan de jeux vidéo (RPG, FPS & plus)
 - 🎸 Joue de la guitare électrique 
-- 💡 Toujours en quête de nouveaux challenges tech
 
 📫 **Contacte-moi** : [LinkedIn](https://www.linkedin.com/in/anaïs-delattre/) | [Mail](mailto:anais.delattre1@gmail.com)
 
