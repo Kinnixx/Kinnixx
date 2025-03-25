@@ -16,7 +16,6 @@ Passionnée par le **développement web**, la **guitare** et les **jeux vidéo**
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kinnixx&theme=shades-of-purple&hide_border=true&locale=fr&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 ![Stats](https://github-readme-stats.vercel.app/api?username=Kinnixx&show_icons=true&theme=dracula)
 
 ---
