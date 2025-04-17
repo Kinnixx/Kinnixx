@@ -1,4 +1,4 @@
-![Header](./pres.png)
+![Header](./banner.png)
 
 Dév web & bidouilleuse dans l’âme, je jongle entre **PHP**, **JavaScript** et mes riffs de guitare. Passionnée par les **IA**, le **code clean**, et les **univers immersifs** (RPG, jeux narratifs...), j’aime donner vie à des projets qui ont du style et du sens.
 
