@@ -6,13 +6,23 @@ Dév web & bidouilleuse dans l’âme, je jongle entre **PHP**, **JavaScript** e
 🎸 Et quand je code pas… je joue. À la gratte ou à la console.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎸_Fullstackeuse-%F0%9F%92%A5%20Powered_by_Coffee-bf2c94?style=flat-square" />
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
+    <img src="https://img.shields.io/badge/🎸_Fullstackeuse-%F0%9F%92%A5%20Powered_by_Coffee-bf2c94?style=flat-square" />
+  </a>
   <br />
-  <img src="https://img.shields.io/badge/📁%20Repos-🌌%20Check%20em%20out-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/💻%20Code-PHP%20%7C%20JS%20%7C%20Next.js%20%7C%20Tailwind-6e40c9?style=flat-square" />
+  <a href="https://github.com/Kinnixx?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/📁%20Repos-🌌%20Check%20em%20out-purple?style=flat-square" />
+  </a>
+  <span>
+    <img src="https://img.shields.io/badge/💻%20Code-PHP%20%7C%20JS%20%7C%20Next.js%20%7C%20Tailwind-6e40c9?style=flat-square" />
+  </span>
   <br />
-  <img src="https://img.shields.io/badge/Gamer-Always--on-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Rock-Code%20%26%20Distortion-black?style=flat-square" />
+  <span>
+    <img src="https://img.shields.io/badge/Gamer-Always--on-purple?style=flat-square" />
+  </span>
+  <a href="https://www.youtube.com/watch?v=oRkRwL0vjOg&ab_channel=NapalmRecords" target="_blank">
+    <img src="https://img.shields.io/badge/Rock-Code%20%26%20Distortion-black?style=flat-square" />
+  </a>
 </p>
 
 
