@@ -54,7 +54,7 @@ Dév web & bidouilleuse dans l’âme, je jongle entre **PHP**, **JavaScript** e
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats-kinnixxs-projects.vercel.app/api?username=Kinnixx&show_icons=true&hide_title=false&hide_rank=false&hide=stars&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&border_radius=12&custom_title=Anaïs%20Delattre's%20GitHub%20Stats)
+![Stats](https://github-readme-stats-kinnixxs-projects.vercel.app/api?username=Kinnixx&show_icons=true&count_private=true&hide=stars&hide_title=true&include_all_commits=true&title_color=e63946&text_color=f1faee&icon_color=a8dadc&bg_color=1d1d1d&border_color=6d6875&ring_color=457b9d&border_radius=12&custom_title=Anaïs%20Delattre's%20GitHub%20Stats&theme=default)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kinnixx/snk/blob/output/github-snake-dark.svg" />
