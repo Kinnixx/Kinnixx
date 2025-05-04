@@ -40,7 +40,7 @@ Dév web & bidouilleuse dans l’âme, je jongle entre **PHP**, **JavaScript** e
 
 ## 💼 Projets cools
 
-- 🔍 [Nexus Aventures](https://github.com/Kinnixx/nexus-aventures) : Jeu narratif aux multiples aventures / univers, en Next.js & Tailwind (Privé, me demander l'accès !)
+- 🔍 [Nexus Aventures](https://github.com/Kinnixx/nexus-aventures) : Jeu narratif aux multiples aventures / univers, en Next.js & Tailwind ; www.nexusaventures.fr
 - 📡 [PulseTrack](https://github.com/Kinnixx/pulse-track) : Tableau de bord léger de **monitoring** & **logging** en temps réel  
   > Démo technique en cours de dev, vitrine de ma montée en compétences sur une stack moderne :  
   > PHP 8.2 (Fat-Free) · MariaDB · RabbitMQ · SolR · ELK · Ember Octane · Docker  
