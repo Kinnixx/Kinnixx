@@ -1,9 +1,10 @@
 ![Header](./banner.png)
 
-Dév web & bidouilleuse dans l’âme, je jongle entre **PHP**, **JavaScript** et mes riffs de guitare. Passionnée par les **IA**, le **code clean**, et les **univers immersifs** (RPG, jeux narratifs...), j’aime donner vie à des projets qui ont du style et du sens.
+Dév web & bidouilleuse dans l’âme, le développement web est plus qu'une passion. Concevoir, réfléchir aux solutions, et avoir un impact est ce qui me motive au quotidien ! Passionnée par les **IA**, le **code clean**, et les **univers immersifs** (RPG, jeux narratifs...), j'aime donner vie à des projets qui ont du style et du sens.
 
-🧠 Toujours en train d’apprendre, toujours prête à tout donner pour mieux comprendre.  
-🎸 Et quand je code pas… je joue. À la gratte ou à la console.
+🧠 Toujours en train d’apprendre, toujours prête à tout donner pour mieux comprendre. 
+
+ J'ai également passé quelques années à former, accompagner, motiver des personnes en poursuite d'études ou en reconversion dans le développement web (4 promos de 50 apprenants chacune accompagnées !), puis à manager une équipe. 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
@@ -38,17 +39,14 @@ Dév web & bidouilleuse dans l’âme, je jongle entre **PHP**, **JavaScript** e
 
 ---
 
-## 💼 Projets cools
+## 💼 Projets
 
-- 🔍 [Nexus Aventures](https://github.com/Kinnixx/nexus-aventures) : Jeu narratif aux multiples aventures / univers, en Next.js & Tailwind ; www.nexusaventures.fr
+- 🔍 Nexus Aventures [en cours de développement] : Jeu narratif aux multiples aventures / univers, en Next.js & Tailwind ; www.nexusaventures.fr
 - 📡 [PulseTrack](https://github.com/Kinnixx/pulse-track) : Tableau de bord léger de **monitoring** & **logging** en temps réel  
   > Démo technique en cours de dev, vitrine de ma montée en compétences sur une stack moderne :  
   > PHP 8.2 (Fat-Free) · MariaDB · RabbitMQ · SolR · ELK · Ember Octane · Docker  
   >  
   > 💡 Simule des flux d'événements temps réel, avec API REST, queue, logs consultables et dashboard full-stack.
-- 🎸 Portfolio : En cours de montage, stay tuned 😏
-
-*(Tu veux me voir en action ? Clique 👆)*
 
 ---
 
@@ -67,11 +65,11 @@ Dév web & bidouilleuse dans l’âme, je jongle entre **PHP**, **JavaScript** e
 ## 🎸 À propos de moi
 
 - 🔥 Toujours un projet perso en cours (ou deux… ou trois)
-- 🛠️ Team clavier méca, dark mode & terminal ouvert H24
+- 🛠️ Team clavier méca, dark mode & pain au chocolat
 - ⚔️ Passion IA / Tech / Guitare
-- 🎮 RPG, FPS, narratif : les jeux, c’est plus qu’un hobby
+- 🎮 RPG, FPS
 
-📫 **Contacte-moi** : [LinkedIn](https://www.linkedin.com/in/anaïs-delattre/) | [Mail](mailto:anais.delattre1@gmail.com)
+📫 **Contactez-moi** : [LinkedIn](https://www.linkedin.com/in/anaïs-delattre/) | [Mail](mailto:anais.delattre1@gmail.com)
 
 ---
 
