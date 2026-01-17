@@ -50,7 +50,7 @@ Dév web & bidouilleuse dans l’âme, le développement web est plus qu'une pas
   >  
   > 💡 Simule des flux d'événements temps réel, avec API REST, queue, logs consultables et dashboard full-stack.
 - 📋 [TaskForge](https://github.com/Kinnixx/TaskForge) : Une application de gestion de projets et de tâches orientée équipe.
-  > Python / Django & Tailwund
+  > Python / Django & Tailwind
 ---
 
 ## 📈 GitHub Stats
