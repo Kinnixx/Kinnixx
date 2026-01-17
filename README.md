@@ -41,13 +41,16 @@ Dév web & bidouilleuse dans l’âme, le développement web est plus qu'une pas
 
 ## 💼 Projets
 
-- 🔍 Nexus Aventures [en cours de développement] : Jeu narratif aux multiples aventures / univers, en Next.js & Tailwind ; www.nexusaventures.fr
+- 🔍 Nexus Aventures [en cours de développement] : Jeu narratif aux multiples aventures / univers
+   > Next.js & Tailwind
+   > www.nexusaventures.fr
 - 📡 [PulseTrack](https://github.com/Kinnixx/pulse-track) : Tableau de bord léger de **monitoring** & **logging** en temps réel  
-  > Démo technique en cours de dev, vitrine de ma montée en compétences sur une stack moderne :  
+  > Démo technique, vitrine de ma montée en compétences sur une stack moderne :  
   > PHP 8.2 (Fat-Free) · MariaDB · RabbitMQ · SolR · ELK · Ember Octane · Docker  
   >  
   > 💡 Simule des flux d'événements temps réel, avec API REST, queue, logs consultables et dashboard full-stack.
-
+- 📋 [TaskForge](https://github.com/Kinnixx/TaskForge) : Une application de gestion de projets et de tâches orientée équipe.
+  > Python / Django & Tailwund
 ---
 
 ## 📈 GitHub Stats
